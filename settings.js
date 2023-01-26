@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read message
+global.autoread = false // auto read message
 global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
