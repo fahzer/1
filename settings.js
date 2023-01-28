@@ -35,7 +35,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Fahzz" //namabot kalian
 global.ownername = "Fahzz" //nama kalian
-global.myweb = "https://saweria.co/AhmadSF" //bebas asal jan hapus
+global.myweb = "https://saweria.co/Fahzz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@fahzz" //bebas asal jan hapus
 global.myweb2 = "https://saweria.co/Fahzz" //bebas
 global.email = "fahzgcc@gmail.com" //bebas
